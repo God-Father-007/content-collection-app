@@ -1,0 +1,606 @@
+{
+    "kind": "customsearch#search",
+    "url": {
+      "type": "application/json",
+      "template": "https://www.googleapis.com/customsearch/v1?q={searchTerms}&num={count?}&start={startIndex?}&lr={language?}&safe={safe?}&cx={cx?}&sort={sort?}&filter={filter?}&gl={gl?}&cr={cr?}&googlehost={googleHost?}&c2coff={disableCnTwTranslation?}&hq={hq?}&hl={hl?}&siteSearch={siteSearch?}&siteSearchFilter={siteSearchFilter?}&exactTerms={exactTerms?}&excludeTerms={excludeTerms?}&linkSite={linkSite?}&orTerms={orTerms?}&relatedSite={relatedSite?}&dateRestrict={dateRestrict?}&lowRange={lowRange?}&highRange={highRange?}&searchType={searchType}&fileType={fileType?}&rights={rights?}&imgSize={imgSize?}&imgType={imgType?}&imgColorType={imgColorType?}&imgDominantColor={imgDominantColor?}&alt=json"
+    },
+    "queries": {
+      "request": [
+        {
+          "title": "Google Custom Search - aoi bungaku anime",
+          "totalResults": "163000",
+          "searchTerms": "aoi bungaku anime",
+          "count": 10,
+          "startIndex": 1,
+          "inputEncoding": "utf8",
+          "outputEncoding": "utf8",
+          "safe": "off",
+          "cx": "d125b8956e77342c8"
+        }
+      ],
+      "nextPage": [
+        {
+          "title": "Google Custom Search - aoi bungaku anime",
+          "totalResults": "163000",
+          "searchTerms": "aoi bungaku anime",
+          "count": 10,
+          "startIndex": 11,
+          "inputEncoding": "utf8",
+          "outputEncoding": "utf8",
+          "safe": "off",
+          "cx": "d125b8956e77342c8"
+        }
+      ]
+    },
+    "context": {
+      "title": "collection_app"
+    },
+    "searchInformation": {
+      "searchTime": 0.199707,
+      "formattedSearchTime": "0.20",
+      "totalResults": "163000",
+      "formattedTotalResults": "163,000"
+    },
+    "items": [
+      {
+        "kind": "customsearch#result",
+        "title": "Aoi Bungaku Series - MyAnimeList.net",
+        "htmlTitle": "\u003cb\u003eAoi Bungaku\u003c/b\u003e Series - MyAnimeList.net",
+        "link": "https://myanimelist.net/anime/7193/Aoi_Bungaku_Series",
+        "displayLink": "myanimelist.net",
+        "snippet": "What makes this anime good? I will try to do it some justice and explain. ... Aoi Bungaku is an anthology of stories taken from classic Japanese literature. The ...",
+        "htmlSnippet": "What makes this \u003cb\u003eanime\u003c/b\u003e good? I will try to do it some justice and explain. ... \u003cb\u003eAoi Bungaku\u003c/b\u003e is an anthology of stories taken from classic Japanese literature. The&nbsp;...",
+        "cacheId": "up5tNZ0egPkJ",
+        "formattedUrl": "https://myanimelist.net/anime/7193/Aoi_Bungaku_Series",
+        "htmlFormattedUrl": "https://my\u003cb\u003eanime\u003c/b\u003elist.net/\u003cb\u003eanime\u003c/b\u003e/7193/\u003cb\u003eAoi\u003c/b\u003e_\u003cb\u003eBungaku\u003c/b\u003e_Series",
+        "pagemap": {
+          "tvseries": [
+            {
+              "image": "https://cdn.myanimelist.net/images/anime/10/17471.jpg",
+              "name": "Aoi Bungaku Series",
+              "genre": "Drama",
+              "description": "Ningen Shikkaku A high school student seeks solace in narcotics to escape the dispiritedness that has come over his life. As he goes through the different stages of his life, it culminates..."
+            }
+          ],
+          "cse_thumbnail": [
+            {
+              "src": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcS7Emlj6mM0BTJM8FdQm1w3bH_G75Aa7bbTUFdfV557O5Q5n9mKGvoh0aRw",
+              "width": "182",
+              "height": "276"
+            }
+          ],
+          "aggregaterating": [
+            {
+              "ratingvalue": "7.69",
+              "ratingcount": "62275",
+              "worstrating": "1",
+              "bestrating": "10"
+            }
+          ],
+          "metatags": [
+            {
+              "og:image": "https://cdn.myanimelist.net/images/anime/10/17471.jpg",
+              "twitter:card": "summary",
+              "og:type": "video.tv_show",
+              "fo-verify": "1e927243-8e02-48e3-b098-a7b78c5b4e36",
+              "og:site_name": "MyAnimeList.net",
+              "og:title": "Aoi Bungaku Series",
+              "csrf_token": "a08948c7e69bf26a893ac3ea69213aad116109c6",
+              "og:description": "Ningen Shikkaku A high school student seeks solace in narcotics to escape the dispiritedness that has come over his life. As he goes through the different stages of his life, it culminates in the questioning of his existence in the world. Sakura no Mori no Mankai no Shita The adaptation of Ango Sakaguchi's literary work deals with the love story of a woman abducted by a mountain bandit. Kokoro While trying to fill the void in his life, a university student in Tokyo encounters a charismatic older man, whom he addresses as \"Sensei,\" who offers him advice on life. However, the man is apprehensive to share his life experience, deepening the student's curiosity. Through this peculiar relationship, the student comes to ponder about the distance between him and his family and the growing desolation in his heart filled with ego and guilt. Hashire, Melos! The story portrays the unbreakable bond between two friends, Melos and Selinuntius, and their faith in protecting each other, all while dangling on a thread which ho",
+              "twitter:image:src": "https://cdn.myanimelist.net/r/360x360/images/anime/10/17471.jpg?s=6f9f92b5114a461adf764b41bb275bd9",
+              "referrer": "default",
+              "fb:app_id": "360769957454434",
+              "twitter:site": "@myanimelist",
+              "viewport": "initial-scale=1",
+              "og:locale": "en_US",
+              "recaptcha_site_key": "6Ld_1aIZAAAAAF6bNdR67ICKIaeXLKlbhE7t2Qz4",
+              "og:url": "https://myanimelist.net/anime/7193/Aoi_Bungaku_Series"
+            }
+          ],
+          "moviereview": [
+            {
+              "ratingstars": "4.0",
+              "summary": "Ningen Shikkaku A high school student seeks solace in narcotics to escape the dispiritedness that has come over his life. As he goes through the different...",
+              "image_href": "https://cdn.myanimelist.net/images/anime/10/17471.jpg",
+              "name": "Aoi Bungaku Series",
+              "genre": "Drama/Suspense",
+              "best": "10",
+              "votes": "62275",
+              "originalrating": "7.69"
+            }
+          ],
+          "cse_image": [
+            {
+              "src": "https://cdn.myanimelist.net/images/anime/10/17471.jpg"
+            }
+          ],
+          "listitem": [
+            {
+              "item": "Top",
+              "name": "Top",
+              "position": "1"
+            },
+            {
+              "item": "Anime",
+              "name": "Anime",
+              "position": "2"
+            },
+            {
+              "item": "Aoi Bungaku Series",
+              "name": "Aoi Bungaku Series",
+              "position": "3"
+            }
+          ]
+        }
+      },
+      {
+        "kind": "customsearch#result",
+        "title": "Aoi Bungaku - Wikipedia",
+        "htmlTitle": "\u003cb\u003eAoi Bungaku\u003c/b\u003e - Wikipedia",
+        "link": "https://en.wikipedia.org/wiki/Aoi_Bungaku",
+        "displayLink": "en.wikipedia.org",
+        "snippet": "Aoi Bungaku Series is a twelve episode Japanese anime series featuring adaptations inspired by six short stories from Japanese literature.",
+        "htmlSnippet": "\u003cb\u003eAoi Bungaku\u003c/b\u003e Series is a twelve episode Japanese \u003cb\u003eanime\u003c/b\u003e series featuring adaptations inspired by six short stories from Japanese literature.",
+        "cacheId": "JaPi3UDwZ6cJ",
+        "formattedUrl": "https://en.wikipedia.org/wiki/Aoi_Bungaku",
+        "htmlFormattedUrl": "https://en.wikipedia.org/wiki/\u003cb\u003eAoi\u003c/b\u003e_\u003cb\u003eBungaku\u003c/b\u003e",
+        "pagemap": {
+          "metatags": [
+            {
+              "referrer": "origin",
+              "og:image": "https://upload.wikimedia.org/wikipedia/en/4/45/Aoi_Bungaku_BD_1.png",
+              "theme-color": "#eaecf0",
+              "og:image:width": "1200",
+              "og:type": "website",
+              "viewport": "width=device-width, initial-scale=1.0, user-scalable=yes, minimum-scale=0.25, maximum-scale=5.0",
+              "og:title": "Aoi Bungaku - Wikipedia",
+              "og:image:height": "1489",
+              "format-detection": "telephone=no"
+            }
+          ]
+        }
+      },
+      {
+        "kind": "customsearch#result",
+        "title": "Aoi Bungaku Series (TV Mini Series 2009– ) - IMDb",
+        "htmlTitle": "\u003cb\u003eAoi Bungaku\u003c/b\u003e Series (TV Mini Series 2009– ) - IMDb",
+        "link": "https://www.imdb.com/title/tt1805647/",
+        "displayLink": "www.imdb.com",
+        "snippet": "Aoi Bungaku is a 12 episode anime series that is comprised of adaptations of six Japanese literary classics. The stories included are 'No Longer Human' and ...",
+        "htmlSnippet": "\u003cb\u003eAoi Bungaku\u003c/b\u003e is a 12 episode \u003cb\u003eanime\u003c/b\u003e series that is comprised of adaptations of six Japanese literary classics. The stories included are &#39;No Longer Human&#39; and&nbsp;...",
+        "cacheId": "QDzQgoSOlH0J",
+        "formattedUrl": "https://www.imdb.com/title/tt1805647/",
+        "htmlFormattedUrl": "https://www.imdb.com/title/tt1805647/",
+        "pagemap": {
+          "cse_thumbnail": [
+            {
+              "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRYfVwF7A7BdudSfU5HQjv3FSYGe9rtIgRrakPTfrqMivWwi3-POuMlb1E",
+              "width": "192",
+              "height": "263"
+            }
+          ],
+          "metatags": [
+            {
+              "og:image": "https://m.media-amazon.com/images/M/MV5BMzM4MTdhYjEtMzllZC00YWIwLWFiOTMtNTU0ZWI1ODliMjQ4XkEyXkFqcGdeQXVyMTA1OTEwNjE@._V1_FMjpg_UX1000_.jpg",
+              "og:type": "video.tv_show",
+              "og:image:width": "1000",
+              "twitter:title": "Aoi Bungaku Series (TV Mini Series 2009– ) - IMDb",
+              "twitter:card": "summary_large_image",
+              "imdb:subpagetype": "main",
+              "og:site_name": "IMDb",
+              "og:title": "Aoi Bungaku Series (TV Mini Series 2009– ) - IMDb",
+              "imdb:pageconst": "tt1805647",
+              "og:image:height": "1370.6070287539935",
+              "og:description": "Aoi Bungaku Series: With Mamoru Miyano, Daisuke Namikawa, Romi Park, Nana Mizuki. Aoi Bungaku is a 12 episode anime series that is comprised of adaptations of six Japanese literary classics. The stories included are 'No Longer Human' and 'Run, Melos!' by Osamu Dazai, 'In the Forest, Under the Cherry Blossoms in Full Bloom' by Ango Sakaguchi, 'Kokoro' by Natsume Soseki, and 'The Spider's Thread' and 'Hell Screen' by Ryunosuke Akutagawa.",
+              "twitter:image": "https://m.media-amazon.com/images/M/MV5BMzM4MTdhYjEtMzllZC00YWIwLWFiOTMtNTU0ZWI1ODliMjQ4XkEyXkFqcGdeQXVyMTA1OTEwNjE@._V1_FMjpg_UX1000_.jpg",
+              "next-head-count": "39",
+              "twitter:image:alt": "Aoi Bungaku Series: With Mamoru Miyano, Daisuke Namikawa, Romi Park, Nana Mizuki. Aoi Bungaku is a 12 episode anime series that is comprised of adaptations of six Japanese literary classics. The stories included are 'No Longer Human' and 'Run, Melos!' by Osamu Dazai, 'In the Forest, Under the Cherry Blossoms in Full Bloom' by Ango Sakaguchi, 'Kokoro' by Natsume Soseki, and 'The Spider's Thread' and 'Hell Screen' by Ryunosuke Akutagawa.",
+              "twitter:site": "@IMDb",
+              "og:locale:alternate": "es_ES",
+              "viewport": "width=device-width",
+              "twitter:description": "Aoi Bungaku Series: With Mamoru Miyano, Daisuke Namikawa, Romi Park, Nana Mizuki. Aoi Bungaku is a 12 episode anime series that is comprised of adaptations of six Japanese literary classics. The stories included are 'No Longer Human' and 'Run, Melos!' by Osamu Dazai, 'In the Forest, Under the Cherry Blossoms in Full Bloom' by Ango Sakaguchi, 'Kokoro' by Natsume Soseki, and 'The Spider's Thread' and 'Hell Screen' by Ryunosuke Akutagawa.",
+              "og:locale": "en_US",
+              "og:url": "https://www.imdb.com/title/tt1805647/",
+              "imdb:pagetype": "title"
+            }
+          ],
+          "cse_image": [
+            {
+              "src": "https://m.media-amazon.com/images/M/MV5BMzM4MTdhYjEtMzllZC00YWIwLWFiOTMtNTU0ZWI1ODliMjQ4XkEyXkFqcGdeQXVyMTA1OTEwNjE@._V1_FMjpg_UX1000_.jpg"
+            }
+          ]
+        }
+      },
+      {
+        "kind": "customsearch#result",
+        "title": "Please Watch: The \"No Longer Human\" Anime Adaptation - Aoi ...",
+        "htmlTitle": "Please Watch: The &quot;No Longer Human&quot; \u003cb\u003eAnime\u003c/b\u003e Adaptation - \u003cb\u003eAoi\u003c/b\u003e ...",
+        "link": "https://www.reddit.com/r/anime/comments/loghe0/please_watch_the_no_longer_human_anime_adaptation/",
+        "displayLink": "www.reddit.com",
+        "snippet": "Feb 20, 2021 ... It is a part of the Aoi Bungaku anthology series and makes up the first 4 episodes of the 12 total episodes in the series. The art is also done ...",
+        "htmlSnippet": "Feb 20, 2021 \u003cb\u003e...\u003c/b\u003e It is a part of the \u003cb\u003eAoi Bungaku\u003c/b\u003e anthology series and makes up the first 4 episodes of the 12 total episodes in the series. The art is also done&nbsp;...",
+        "cacheId": "v0w26ngeIMgJ",
+        "formattedUrl": "https://www.reddit.com/.../anime/.../please_watch_the_no_longer_human_ anime_adaptation/",
+        "htmlFormattedUrl": "https://www.reddit.com/.../\u003cb\u003eanime\u003c/b\u003e/.../please_watch_the_no_longer_human_ \u003cb\u003eanime\u003c/b\u003e_adaptation/",
+        "pagemap": {
+          "cse_thumbnail": [
+            {
+              "src": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcTDoYPyGzZk5BwHHVvrnAQJkBqK09iDzl8AgTyyqWKUPHx2yQ8yeESwQic",
+              "width": "182",
+              "height": "276"
+            }
+          ],
+          "metatags": [
+            {
+              "og:image": "https://external-preview.redd.it/5bzGEHViFv0DIeX2LRTCEdD9TYZEZKZHAHgAaCpADSY.jpg?auto=webp&s=5b81fddf5099c9a8f19cdb1ff17fc00923a230cf",
+              "theme-color": "#000000",
+              "og:type": "website",
+              "og:image:width": "225",
+              "twitter:card": "summary",
+              "og:site_name": "Reddit",
+              "og:title": "r/anime - Please Watch: The \"No Longer Human\" Anime Adaptation - Aoi Bungaku Series",
+              "og:image:height": "341",
+              "msapplication-navbutton-color": "#000000",
+              "og:description": "29 votes and 10 comments so far on Reddit",
+              "apple-mobile-web-app-status-bar-style": "black",
+              "twitter:site": "@reddit",
+              "viewport": "width=device-width, initial-scale=1, viewport-fit=cover",
+              "apple-mobile-web-app-capable": "yes",
+              "og:ttl": "600",
+              "og:url": "https://www.reddit.com/r/anime/comments/loghe0/please_watch_the_no_longer_human_anime_adaptation/"
+            }
+          ],
+          "cse_image": [
+            {
+              "src": "https://external-preview.redd.it/5bzGEHViFv0DIeX2LRTCEdD9TYZEZKZHAHgAaCpADSY.jpg?auto=webp&s=5b81fddf5099c9a8f19cdb1ff17fc00923a230cf"
+            }
+          ]
+        }
+      },
+      {
+        "kind": "customsearch#result",
+        "title": "Aoi Bungaku – Anime Review | Nefarious Reviews",
+        "htmlTitle": "\u003cb\u003eAoi Bungaku\u003c/b\u003e – \u003cb\u003eAnime\u003c/b\u003e Review | Nefarious Reviews",
+        "link": "https://nefariousreviews.com/2017/01/01/aoi-bungaku-anime-review/",
+        "displayLink": "nefariousreviews.com",
+        "snippet": "Jan 1, 2017 ... Aoi Bungaku – Anime Review · Something different. · Stories three and six. · Complex characters. · Dark and twisted imagery in some stories.",
+        "htmlSnippet": "Jan 1, 2017 \u003cb\u003e...\u003c/b\u003e \u003cb\u003eAoi Bungaku\u003c/b\u003e – \u003cb\u003eAnime\u003c/b\u003e Review &middot; Something different. &middot; Stories three and six. &middot; Complex characters. &middot; Dark and twisted imagery in some stories.",
+        "cacheId": "0y35fLwOf-kJ",
+        "formattedUrl": "https://nefariousreviews.com/2017/01/01/aoi-bungaku-anime-review/",
+        "htmlFormattedUrl": "https://nefariousreviews.com/2017/01/01/\u003cb\u003eaoi\u003c/b\u003e-\u003cb\u003ebungaku\u003c/b\u003e-\u003cb\u003eanime\u003c/b\u003e-review/",
+        "pagemap": {
+          "hcard": [
+            {
+              "fn": "Manas",
+              "nickname": "Manas"
+            },
+            {
+              "url_text": "Nefarious Reviews",
+              "fn": "Nefarious Reviews",
+              "url": "https://nefariousreviews.wordpress.com/"
+            },
+            {
+              "fn": "Manas",
+              "nickname": "Manas"
+            },
+            {
+              "url_text": "Nefarious Reviews",
+              "fn": "Nefarious Reviews",
+              "url": "https://nefariousreviews.wordpress.com/"
+            }
+          ],
+          "cse_thumbnail": [
+            {
+              "src": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQ_gaa4a3GG1eWrC7h4G_cM8ZByS1efq-fJRBPfThh9opK6dhsZsD0jyysc",
+              "width": "251",
+              "height": "201"
+            }
+          ],
+          "metatags": [
+            {
+              "application-name": "Nefarious Reviews",
+              "og:image": "https://nefariousreviews.files.wordpress.com/2016/12/aoi-bungaku-featured.jpg?w=1200",
+              "og:type": "article",
+              "article:published_time": "2017-01-01T00:59:07+00:00",
+              "og:image:width": "1200",
+              "twitter:card": "summary_large_image",
+              "theme-color": "#f5f5f5",
+              "og:site_name": "Nefarious Reviews",
+              "msapplication-window": "width=device-width;height=device-height",
+              "msapplication-tooltip": "Anime and Manga Reviews",
+              "og:title": "Aoi Bungaku – Anime Review",
+              "og:image:height": "960",
+              "og:description": "The series adapts six modern classics of Japanese literature.",
+              "twitter:creator": "@NefariousReview",
+              "article:publisher": "https://www.facebook.com/WordPresscom",
+              "twitter:image": "https://nefariousreviews.files.wordpress.com/2016/12/aoi-bungaku-featured.jpg?w=640",
+              "twitter:text:title": "Aoi Bungaku – Anime Review",
+              "twitter:site": "@NefariousReview",
+              "article:modified_time": "2017-03-30T16:00:51+00:00",
+              "viewport": "width=device-width",
+              "og:locale": "en_US",
+              "og:url": "https://nefariousreviews.com/2017/01/01/aoi-bungaku-anime-review/",
+              "msapplication-task": "name=Subscribe;action-uri=https://nefariousreviews.com/feed/;icon-uri=https://s1.wp.com/i/favicon.ico"
+            }
+          ],
+          "cse_image": [
+            {
+              "src": "https://nefariousreviews.files.wordpress.com/2016/12/aoi-bungaku-featured.jpg?w=1200"
+            }
+          ]
+        }
+      },
+      {
+        "kind": "customsearch#result",
+        "title": "Aoi Bungaku Series (TV) - Anime News Network",
+        "htmlTitle": "\u003cb\u003eAoi Bungaku\u003c/b\u003e Series (TV) - \u003cb\u003eAnime\u003c/b\u003e News Network",
+        "link": "https://www.animenewsnetwork.com/encyclopedia/anime.php?id=11096",
+        "displayLink": "www.animenewsnetwork.com",
+        "snippet": "Plot Summary: An animated adaptation of six classical Japanese literature pieces, including No Longer Human (Ningen Shikkaku) and Run, Melos (Hashire, ...",
+        "htmlSnippet": "Plot Summary: An animated adaptation of six classical Japanese literature pieces, including No Longer Human (Ningen Shikkaku) and Run, Melos (Hashire,&nbsp;...",
+        "cacheId": "rHjUQYgAQ-EJ",
+        "formattedUrl": "https://www.animenewsnetwork.com/encyclopedia/anime.php?id=11096",
+        "htmlFormattedUrl": "https://www.\u003cb\u003eanime\u003c/b\u003enewsnetwork.com/encyclopedia/\u003cb\u003eanime\u003c/b\u003e.php?id=11096",
+        "pagemap": {
+          "cse_thumbnail": [
+            {
+              "src": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcT7OBp74IH9YUjNMN39G0upWRsZGrbBqLrQN8ixGgzPBXwLqF7FBR7HSng",
+              "width": "136",
+              "height": "200"
+            }
+          ],
+          "metatags": [
+            {
+              "referrer": "origin-when-cross-origin",
+              "copyright": "Copyright (C) 2006 Anime News Network",
+              "handheldfriendly": "true",
+              "viewport": "width=device-width,initial-scale=1"
+            }
+          ],
+          "cse_image": [
+            {
+              "src": "https://cdn.animenewsnetwork.com/thumbnails/fit200x200/encyc/A11096-728472783.1516751217.jpg"
+            }
+          ]
+        }
+      },
+      {
+        "kind": "customsearch#result",
+        "title": "Aoi Bungaku Series | Anime-Planet",
+        "htmlTitle": "\u003cb\u003eAoi Bungaku\u003c/b\u003e Series | \u003cb\u003eAnime\u003c/b\u003e-Planet",
+        "link": "https://www.anime-planet.com/anime/aoi-bungaku-series",
+        "displayLink": "www.anime-planet.com",
+        "snippet": "Aoi Bungaku Series ... Sometimes the greatest distance is between people. Whether a man alienates himself from society with a façade of cheerfulness, or two ...",
+        "htmlSnippet": "\u003cb\u003eAoi Bungaku\u003c/b\u003e Series ... Sometimes the greatest distance is between people. Whether a man alienates himself from society with a façade of cheerfulness, or two&nbsp;...",
+        "cacheId": "nNnzGbCuSeUJ",
+        "formattedUrl": "https://www.anime-planet.com/anime/aoi-bungaku-series",
+        "htmlFormattedUrl": "https://www.\u003cb\u003eanime\u003c/b\u003e-planet.com/\u003cb\u003eanime\u003c/b\u003e/\u003cb\u003eaoi\u003c/b\u003e-\u003cb\u003ebungaku\u003c/b\u003e-series",
+        "pagemap": {
+          "cse_thumbnail": [
+            {
+              "src": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcT23Nf7gjPijk2_88pPWJBIipUWKY4cbV-VscJ1WVS39CR-CiWafgUFF0Tc",
+              "width": "189",
+              "height": "266"
+            }
+          ],
+          "metatags": [
+            {
+              "video:director": "https://www.anime-planet.com/people/atsuko-ishizuka",
+              "og:image": "https://cdn.anime-planet.com/anime/primary/aoi-bungaku-series-1.jpg?t=1625772202",
+              "og:type": "video.tv_show",
+              "og:site_name": "Anime-Planet",
+              "viewport": "width=device-width, initial-scale=1, minimum-scale=1, maximum-scale=1",
+              "video:release_date": "2009-10-11",
+              "og:title": "Aoi Bungaku Series",
+              "video:actor": "https://www.anime-planet.com/people/atsuko-tanaka",
+              "fb:admins": "1466016965",
+              "og:url": "https://www.anime-planet.com/anime/aoi-bungaku-series",
+              "video:tag": "Drama",
+              "og:description": "Sometimes the greatest distance is&nbsp;between people. Whether a man alienates himself from society with a fa&ccedil;ade of cheerfulness, or two friends fail to communicate their feelings of betrayal, invisible barriers plague mankind. Although love should bring people together, when a stoic renter and a dutiful monk choose to court a widow&rsquo;s daughter, their mutual affections drive a bitter gap between them. During each encounter filled with mistrust and despair, the flaws of human nature slowly reveal themselves..."
+            }
+          ],
+          "cse_image": [
+            {
+              "src": "https://cdn.anime-planet.com/anime/primary/aoi-bungaku-series-1.jpg?t=1625772202"
+            }
+          ]
+        }
+      },
+      {
+        "kind": "customsearch#result",
+        "title": "8 Aoi Bungaku - anime ideas | japonia, tapety",
+        "htmlTitle": "8 \u003cb\u003eAoi Bungaku\u003c/b\u003e - \u003cb\u003eanime\u003c/b\u003e ideas | japonia, tapety",
+        "link": "https://www.pinterest.com/miraikamimori/aoi-bungaku-anime/",
+        "displayLink": "www.pinterest.com",
+        "snippet": "2018-05-13 - Explore Mirai-Kamimori's board \"Aoi Bungaku - anime\" on Pinterest. See more ideas about japonia, tapety.",
+        "htmlSnippet": "2018-05-13 - Explore Mirai-Kamimori&#39;s board &quot;\u003cb\u003eAoi Bungaku\u003c/b\u003e - \u003cb\u003eanime\u003c/b\u003e&quot; on Pinterest. See more ideas about japonia, tapety.",
+        "cacheId": "Uva60CVE-N0J",
+        "formattedUrl": "https://www.pinterest.com/miraikamimori/aoi-bungaku-anime/",
+        "htmlFormattedUrl": "https://www.pinterest.com/miraikamimori/\u003cb\u003eaoi\u003c/b\u003e-\u003cb\u003ebungaku\u003c/b\u003e-\u003cb\u003eanime\u003c/b\u003e/",
+        "pagemap": {
+          "cse_thumbnail": [
+            {
+              "src": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRzn_4Co-xngvpnzTmtPgMtOkEmKsjpJWvGpDSKV292Vulj-ifHiFVxsd0",
+              "width": "200",
+              "height": "150"
+            }
+          ],
+          "metatags": [
+            {
+              "application-name": "Pinterest",
+              "msapplication-tilecolor": "#ffffff",
+              "og:image": "https://i.pinimg.com/200x150/61/c0/25/61c025452c15db4a0660107ce907de19.jpg",
+              "og:type": "pinterestapp:pinboard",
+              "twitter:title": "Aoi Bungaku - anime",
+              "og:site_name": "Pinterest",
+              "og:title": "8 Aoi Bungaku - anime ideas | japonia, tapety",
+              "msapplication-tileimage": "https://s.pinimg.com/webapp/logo_trans_144x144-5e37c0c6.png",
+              "og:updated_time": "2018-05-13T17:36:40.000Z",
+              "og:description": "2018-05-13 - Explore Mirai-Kamimori's board \"Aoi Bungaku - anime\" on Pinterest. See more ideas about japonia, tapety.",
+              "pinterestapp:pinner": "https://www.pinterest.com/miraikamimori/",
+              "twitter:image:src": "https://i.pinimg.com/200x150/61/c0/25/61c025452c15db4a0660107ce907de19.jpg",
+              "referrer": "origin",
+              "fb:app_id": "274266067164",
+              "viewport": "width=device-width, initial-scale=1",
+              "pinterestapp:pins": "8",
+              "twitter:description": "2018-05-13 - Explore Mirai-Kamimori's board \"Aoi Bungaku - anime\" on Pinterest. See more ideas about japonia, tapety.",
+              "og:url": "https://www.pinterest.com/miraikamimori/aoi-bungaku-anime/"
+            }
+          ],
+          "cse_image": [
+            {
+              "src": "https://i.pinimg.com/200x150/61/c0/25/61c025452c15db4a0660107ce907de19.jpg"
+            }
+          ]
+        }
+      },
+      {
+        "kind": "customsearch#result",
+        "title": "Review: Aoi Bungaku – OTAKU LOUNGE",
+        "htmlTitle": "Review: \u003cb\u003eAoi Bungaku\u003c/b\u003e – OTAKU LOUNGE",
+        "link": "https://otakulounge.net/2014/06/14/review-aoi-bungaku/",
+        "displayLink": "otakulounge.net",
+        "snippet": "Jun 14, 2014 ... Aoi Bungaku (Blue Literature) is a challenging anime to review for at least a couple of reasons. While the main concept behind the series is ...",
+        "htmlSnippet": "Jun 14, 2014 \u003cb\u003e...\u003c/b\u003e \u003cb\u003eAoi Bungaku\u003c/b\u003e (Blue Literature) is a challenging \u003cb\u003eanime\u003c/b\u003e to review for at least a couple of reasons. While the main concept behind the series is&nbsp;...",
+        "cacheId": "20OF4u7xGmwJ",
+        "formattedUrl": "https://otakulounge.net/2014/06/14/review-aoi-bungaku/",
+        "htmlFormattedUrl": "https://otakulounge.net/2014/06/14/review-\u003cb\u003eaoi\u003c/b\u003e-\u003cb\u003ebungaku\u003c/b\u003e/",
+        "pagemap": {
+          "hcard": [
+            {
+              "url_text": "froggykun",
+              "fn": "froggykun",
+              "nickname": "froggykun",
+              "url": "http://fantasticmemes.wordpress.com/"
+            },
+            {
+              "url_text": "Artemis",
+              "fn": "Artemis",
+              "nickname": "Artemis",
+              "url": "https://otakulounge.wordpress.com/"
+            },
+            {
+              "url_text": "Vrai",
+              "fn": "Vrai",
+              "nickname": "Vrai",
+              "url": "http://vraikaiser.wordpress.com/"
+            },
+            {
+              "url_text": "Artemis",
+              "fn": "Artemis",
+              "nickname": "Artemis",
+              "url": "https://otakulounge.wordpress.com/"
+            },
+            {
+              "url_text": "Peter S",
+              "fn": "Peter S",
+              "url": "http://peterburd.wordpress.com/"
+            },
+            {
+              "url_text": "Artemis",
+              "fn": "Artemis",
+              "nickname": "Artemis",
+              "url": "https://otakulounge.wordpress.com/"
+            },
+            {
+              "url_text": "James Alexander",
+              "fn": "James Alexander",
+              "url": "http://manganiche.wordpress.com/"
+            },
+            {
+              "url_text": "Artemis",
+              "fn": "Artemis",
+              "nickname": "Artemis",
+              "url": "https://otakulounge.wordpress.com/"
+            }
+          ],
+          "cse_thumbnail": [
+            {
+              "src": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQ8mp1MPnzL8AkTuaFavJR15-pGVbbNU5Q0J9Sfo-Tchc8K941bQfhse9s",
+              "width": "299",
+              "height": "168"
+            }
+          ],
+          "metatags": [
+            {
+              "application-name": "OTAKU LOUNGE",
+              "og:image": "https://otakulounge.files.wordpress.com/2014/06/54-picture1.png",
+              "og:type": "article",
+              "article:published_time": "2014-06-14T03:06:10+00:00",
+              "og:image:width": "499",
+              "og:image:alt": "54. picture1",
+              "twitter:card": "summary_large_image",
+              "og:site_name": "OTAKU LOUNGE",
+              "msapplication-window": "width=device-width;height=device-height",
+              "msapplication-tooltip": "Come chill on the couch.",
+              "og:title": "Review: Aoi Bungaku",
+              "og:image:height": "281",
+              "msapplication-tileimage": "https://otakulounge.files.wordpress.com/2020/11/cropped-mi-min-pkpqobp11jc-unsplash-1.jpg?w=270",
+              "og:description": "Aoi Bungaku (Blue Literature) is a challenging anime to review for at least a couple of reasons. While the main concept behind the series is laudable, the overall result, although interesting in it…",
+              "article:publisher": "https://www.facebook.com/WordPresscom",
+              "twitter:image": "https://otakulounge.files.wordpress.com/2014/06/54-picture1.png?w=640",
+              "twitter:text:title": "Review: Aoi Bungaku",
+              "twitter:image:alt": "54. picture1",
+              "article:modified_time": "2014-06-14T03:06:10+00:00",
+              "viewport": "width=device-width, initial-scale=1",
+              "og:locale": "en_US",
+              "og:url": "https://otakulounge.net/2014/06/14/review-aoi-bungaku/",
+              "msapplication-task": "name=Subscribe;action-uri=https://otakulounge.net/feed/;icon-uri=https://otakulounge.files.wordpress.com/2020/11/cropped-mi-min-pkpqobp11jc-unsplash-1.jpg?w=16"
+            }
+          ],
+          "cse_image": [
+            {
+              "src": "https://otakulounge.files.wordpress.com/2014/06/54-picture1.png"
+            }
+          ],
+          "hatomfeed": [
+            {}
+          ]
+        }
+      },
+      {
+        "kind": "customsearch#result",
+        "title": "Aoi Bungaku MBTI Personality Type - Anime & Manga",
+        "htmlTitle": "\u003cb\u003eAoi Bungaku\u003c/b\u003e MBTI Personality Type - \u003cb\u003eAnime\u003c/b\u003e &amp; Manga",
+        "link": "https://www.personality-database.com/profile?pid=2&cid=8&sub_cat_id=4521",
+        "displayLink": "www.personality-database.com",
+        "snippet": "Discover the MBTI personality type of 12 popular Aoi Bungaku (Anime & Manga) characters and find out which ones you are most like!",
+        "htmlSnippet": "Discover the MBTI personality type of 12 popular \u003cb\u003eAoi Bungaku\u003c/b\u003e (\u003cb\u003eAnime\u003c/b\u003e &amp; Manga) characters and find out which ones you are most like!",
+        "cacheId": "y7iYo8ZuarIJ",
+        "formattedUrl": "https://www.personality-database.com/profile?pid=2&cid=8&sub...",
+        "htmlFormattedUrl": "https://www.personality-database.com/profile?pid=2&amp;cid=8&amp;sub...",
+        "pagemap": {
+          "cse_thumbnail": [
+            {
+              "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRASrc3jCioqhnSykVL-rf-YVnNhiIyluGi9jxzC3t9f37M-9SVIOxh7WJm",
+              "width": "200",
+              "height": "200"
+            }
+          ],
+          "metatags": [
+            {
+              "og:image": "https://static1.personality-database.com/profile_images/5fff1cdb87d544f3bee04363690195c1.png",
+              "apple-itunes-app": "app-id=1614566357, app-argument=pdb://home",
+              "twitter:card": "summary",
+              "og:type": "website",
+              "og:image:width": "200",
+              "theme-color": "#0E2D31",
+              "og:title": "🔥 Aoi Bungaku MBTI Personality Type - Anime & Manga",
+              "og:image:height": "200",
+              "og:description": "Discover the MBTI personality type of 12 popular Aoi Bungaku (Anime & Manga) characters and find out which ones you are most like! 👉",
+              "twitter:site": "@PDBcommunity",
+              "viewport": "width=device-width, initial-scale=1.0, maximum-scale=1.0",
+              "og:url": "https://www.personality-database.com/profile?pid=2&cid=8&sub_cat_id=4521",
+              "google-signin-client_id": "525360879715-3kfn0tge3t1nouvk9ol5jgaiv2rtp0s9.apps.googleusercontent.com"
+            }
+          ],
+          "cse_image": [
+            {
+              "src": "https://static1.personality-database.com/profile_images/5fff1cdb87d544f3bee04363690195c1.png"
+            }
+          ]
+        }
+      }
+    ]
+  }
+  

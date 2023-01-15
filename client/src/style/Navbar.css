@@ -1,0 +1,81 @@
+.navbar{
+  max-width: 60vw;
+  height: 100vh;
+  padding-top: 2rem;
+  padding-bottom: 2rem;
+  display: grid;
+  gap: 0.75rem;
+  grid-template-columns: 1fr;
+  grid-template-rows: repeat(auto-fit,4rem);
+  background: linear-gradient(to right,var(--black-1), var(--black-2));
+  position: fixed;
+  z-index: 2;
+  overflow-y: scroll;
+}
+.navbar::-webkit-scrollbar{
+  display: none;
+}
+
+.navbar a{
+  text-decoration: none;
+}
+
+.link-tag{
+  height: 3rem;
+}
+.navbar:hover{
+  padding-left: 2rem;
+  padding-right: 2rem;
+  background: var(--navbar-background);
+  backdrop-filter: saturate(180%) blur(10px);
+}
+
+.content-type{
+  display: flex;
+  height: 100%;
+  opacity: 0.5;
+  transition: transform 100ms;
+}
+
+.content-type:hover,.selected-type{
+  color: var(--black-0);
+  cursor: pointer;
+  opacity: 1;
+  transform: scale(1.25);
+  margin-left: 1rem;
+}
+
+.selected:hover{
+  cursor: default;
+}
+
+.content-title{
+  height: 100%;
+  color: var(--white-f);
+  display: flex;
+  align-items: center;
+  justify-content: left;
+  padding-left: 1rem;
+  font-size: 150%;
+  pointer-events: none;
+}
+
+.content-icon-container{
+  width: var(--navbar-width);
+  height: 100%;
+  position: relative;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  pointer-events: none;
+}
+
+.content-icon{
+  height: 100%;
+  position: absolute;
+  top:0;
+}
+.icon-img{
+  min-width: 40px;
+  height: 100%;
+}

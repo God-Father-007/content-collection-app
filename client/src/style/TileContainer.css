@@ -1,0 +1,20 @@
+.tile-container{
+    display: flex;
+    flex-wrap: wrap;
+}
+
+.tile-container.Currently-deeding > div{
+    border: 2px solid var(--currently-deeding)
+}
+.tile-container.Completed > div{
+    border: 2px solid var(--completed)
+}
+.tile-container.On-Hold > div{
+    border: 2px solid var(--on-hold)
+}
+.tile-container.Dropped > div{
+    border: 2px solid var(--dropped)
+}
+.tile-container.Plan-to-deed > div{
+    border: 2px solid var(--plan-to-deed)
+}

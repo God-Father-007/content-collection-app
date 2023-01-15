@@ -1,0 +1,203 @@
+/* detail container */
+.detail-container{
+    grid-area: tile;
+    width: calc(100vw - var(--navbar-width));
+    min-height: 100vh;
+    display: grid;
+    grid-template-areas: 
+        "image details details details details scrollbar"
+        "info info info info info scrollbar";
+    grid-template-columns: 300px repeat(4,auto) 0.5rem;
+    grid-template-rows: max-content auto;
+    padding: 2rem;
+    padding-right: 2rem;
+    color: var(--white-f);
+    gap: 2rem;
+    background-color: var(--black-2);
+    overflow: scroll;
+}
+.detail-container::-webkit-scrollbar{
+    display: none;
+}
+
+/* image container */
+.image-container{
+    grid-area: image;
+    box-shadow: var(--detail-page-shadow);
+    height: 450px;
+}
+.element-image{
+    box-sizing: border-box;
+    height: 100%;
+    width: 100%;
+    border: 2px solid var(--black-0);
+}
+
+/* general details */
+.general-details{
+    grid-area: details;
+    display: grid;
+    grid-template-rows: 3.5rem repeat(3,auto);
+    grid-template-columns: minmax(800px, 1fr);
+    gap: 1rem;
+    font-size: 1.5rem;
+    box-shadow: var(--detail-page-shadow);
+    padding: 2rem;
+    margin-right: 2rem;
+    opacity: 0.8;
+    border: 2px solid var(--black-0);
+}
+.element-miscellaneous-container{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+.element-status{
+    padding: 0.5rem;
+    padding-left: 1rem;
+    padding-right: 1rem;
+    width: max-content;
+    margin-right: 1.5rem;
+}
+.element-status.Currently-deeding {
+    border-bottom: 2px solid var(--currently-deeding);
+    background-color: var(--currently-deeding);
+}
+.element-status.Completed {
+    border-bottom: 2px solid var(--completed);
+    background-color: var(--completed);
+}
+.element-status.On-Hold {
+    border-bottom: 2px solid var(--on-hold);
+    background-color: var(--on-hold);
+}
+.element-status.Dropped {
+    border-bottom: 2px solid var(--dropped);
+    background-color: var(--dropped);
+}
+.element-status.Plan-to-deed {
+    border: 2px solid var(--plan-to-deed);
+    background-color: var(--plan-to-deed);
+}
+.element-rating{
+    display: grid;
+    grid-template-rows: 1.5rem 2rem;
+}
+.rating-numerical,.rating-star-container{
+    height: 100%;
+    font-size: 75%;
+}
+.rating-star-icon{
+    height: 100%;
+    margin-right: 0.5rem;
+}
+.btn-container{
+    height: 100%;
+    display: grid;
+    grid-template-columns: auto auto;
+    align-items: center;
+}
+.update-btn-container > a{
+    margin: 0;
+    text-decoration: none;
+}
+.delete-btn-container > a{
+    margin: 0;
+    text-decoration: none;
+}
+.update-btn-container,.delete-btn-container{
+    height: 88%;
+    margin: 0;
+    margin-left: 1.5rem;
+}
+.update-btn,.delete-btn{
+    height: 100%;
+    margin: 0;
+    border: 1px solid var(--black-4);
+    color: var(--white-f);
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding-left: 1rem;
+    padding-right: 1rem;
+}
+/* .delete-btn{
+    aspect-ratio: 1/1;
+} */
+.delete-btn:hover{
+    background-color: red;
+    border: none;
+    color: var(--white-f);
+}
+.update-btn:hover{
+    background-color: var(--black-4);
+    border: none;
+    color: var(--white-f);
+}
+.update-icon,.delete-icon{
+    margin-right: 0.5rem;
+}
+.detail-item{
+    width: 100%;
+    display: flex;
+    align-items: top;
+    padding-top: 1rem;
+    border-top: 1px solid var(--white-f);
+}
+.detail-item-key{
+    min-width: 200px;
+}
+.detail-item-value.empty{
+    opacity: 0.4;
+}
+
+/* info from api */
+.info-from-api{
+    grid-area: info;
+    display: flex;
+    flex-wrap: wrap;
+    box-shadow: var(--detail-page-shadow);
+    margin-right: 2rem;
+    display: grid;
+    grid-template-rows: repeat(auto-fit,auto);
+    padding: 2rem;
+}
+.info-from-api > a{
+    text-decoration: none;
+    color: white;
+}
+.api-info-item{
+    width: 100%;
+    border-top: 1px solid var(--white-f);
+    margin-bottom: 0.5rem;
+}
+h1{
+    margin-bottom: 0;
+}
+.api-info-item:hover{
+    text-decoration: underline;
+    cursor: pointer;
+    color: lightskyblue;
+}
+
+
+
+
+
+
+
+.deleted-page{
+    grid-area: tiles;
+    min-width: 610px;
+    width: calc(100vw - 4rem);
+    height: 100vh;
+    background-color: var(--black-2);
+    color: green;
+    font-size: 50px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.done-icon{
+    scale: 3.5;
+}

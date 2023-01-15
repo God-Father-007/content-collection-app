@@ -1,0 +1,65 @@
+.status-tab-container{
+    width: calc(100vw - var(--navbar-width));
+    display: grid;
+    grid-template-columns: repeat(auto-fit,280px);
+    justify-content: space-around;
+    position: sticky;
+    top: 0;
+    z-index: 1;
+    background-color: var(--black-2);
+    opacity: 0.9;
+    padding: 0.7rem;
+    margin-bottom: 0.5rem;
+    margin-left: 4rem;
+    overflow: scroll;
+    box-shadow: 0px 20px 50px var(--black-1);
+}
+
+.status-tab-container::-webkit-scrollbar{
+    display: none;
+}
+
+.status-tab{
+    height: 4vh;
+    color: var(--white-f);
+    font-size: 15px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    padding: 0 1.5rem 0 1.5rem;
+}
+.status-tab:hover,.status-tab.selected{
+    box-shadow: 0px 0px 20px var(--black-0);
+}
+.status-tab.All:hover,
+.status-tab.All.selected {
+    border-bottom: 2px solid var(--all);
+}
+.status-tab.Currently-deeding:hover,
+.status-tab.Currently-deeding.selected {
+    border-bottom: 2px solid var(--currently-deeding);
+}
+.status-tab.Completed:hover,
+.status-tab.Completed.selected {
+    border-bottom: 2px solid var(--completed);
+}
+.status-tab.On-Hold:hover,
+.status-tab.On-Hold.selected {
+    border-bottom: 2px solid var(--on-hold);
+}
+.status-tab.Dropped:hover,
+.status-tab.Dropped.selected {
+    border-bottom: 2px solid var(--dropped);
+}
+.status-tab.Plan-to-deed:hover,
+.status-tab.Plan-to-deed.selected {
+    border-bottom: 2px solid var(--plan-to-deed);
+}
+
+.status-tab:hover{
+    cursor: pointer ;
+}
+
+.status-tab.selected{
+    cursor: auto ;
+}

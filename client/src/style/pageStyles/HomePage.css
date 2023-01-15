@@ -1,0 +1,17 @@
+.homepage{
+    grid-area: tiles;
+    width: calc(100vw - var(--navbar-width));
+    height: 100vh;
+    background: linear-gradient(to bottom right, rgb(4, 4, 92), rgb(42, 0, 42));
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.message{
+    font-size: 72px;
+    color: white;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}

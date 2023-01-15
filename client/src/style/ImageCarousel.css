@@ -1,0 +1,13 @@
+.image-carousel{
+    display: flex;
+    flex-direction: column;
+    overflow: hidden;
+    position: relative;
+    width: 100%;
+}
+
+.left-arrow:hover,.right-arrow:hover{
+    background-color: var(--black-0);
+    opacity: 0.5;
+    cursor: pointer;
+}
